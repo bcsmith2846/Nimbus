@@ -6,4 +6,4 @@ Nimbus will technically be a platform that connects to modules that allow the us
 
 
 Directories:
-/uml - Contains UML diagrams that outline the project.
+/uml - Contains UML diagrams that outline the project. These files were created with ArogUML (http://argouml.tigris.org/). ArgoUML is a visual UML design tool -- if you'd like to look at the UML diagrams, please use said program.
