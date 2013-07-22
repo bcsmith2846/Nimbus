@@ -11,4 +11,4 @@ Java
 	- Memory management
 	- Tomcat can integrate into web services
 	Cons:
-	- No low level hardware/OS access
+	- No low/limited level hardware/OS access
