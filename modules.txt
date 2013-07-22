@@ -1,0 +1,31 @@
+- Photo uploading and viewing
+- Photo editing
+- Budget creation with purchase reporting (to keep up with the budget.)
+- Calendar
+- Social network integration
+- Application hosting (I.E. ventrillo)
+- Memories (a timeline of sorts)
+- Children (limited memories/photos module support)
+- Buliten board (public writable or private.)
+- To do lists
+- Reminders via push notification, email, text, etc.
+- Check in (location reporting of children/SOs/couple to the public)
+- Chore lists (real time updating.)
+- File hosting
+- Email
+- Children requests for permission
+- Messaging
+- Daily schedule reporting
+- Phone monitoring
+- computer monitoring (via desktop app)
+- Computer/phone easy access
+- Computer/phone setting changer
+- Batch computer/phone actions (across 1+ devices.)
+- Network printing from anywhere
+- File backups
+- Webcam viewing
+- Home automation
+- Video hosting
+- Phone/computer update scheduling
+- Forum
+- Blog/diary
