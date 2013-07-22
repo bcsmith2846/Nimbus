@@ -11,3 +11,5 @@ Directories:
 /ideas - Contains the textual ideas of this project. This directory will be archived or removed at a later date, and is probably very hard to follow because it is just the ramblings inside my head.
 
 /src - Contains the source code for Project Nimbus. Subdirectories are below.
+	/src/modules-'x' - Contains the source files for modules that run on 'x' platform. I.E. Windows (modules-win).
+	/src/platform - Contains the source files for the platform. The platform is basically a liaison between the modules and the users.
