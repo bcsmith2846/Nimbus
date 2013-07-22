@@ -1,11 +1,13 @@
 Project codename Nimbus
 
-Nimbus is intened to be a personal cloud and integrate every part of your digital life into one place while allowing you to share it all with friends. Some pieces of Nimbus will be paid for, some will be a montly fee, and others may be free or have a free trial.
+Nimbus is intended to be a personal cloud and integrate every part of your digital life into one place while allowing you to share it all with friends. Some pieces of Nimbus will be paid for, some will be a monthly fee, and others may be free or have a free trial.
 
-Nimbus will technically be a platform that connects to modules that allow the user to do certian things (see "modules.txt" for a preleminary list.) The modules can be purchased separately.
+Nimbus will technically be a platform that connects to modules that allow the user to do certain things (see "modules.txt" for a preliminary list.) The modules can be purchased separately.
 
 
 Directories:
 /uml - Contains UML diagrams that outline the project. These files were created with ArogUML (http://argouml.tigris.org/). ArgoUML is a visual UML design tool -- if you'd like to look at the UML diagrams, please use said program.
 
 /ideas - Contains the textual ideas of this project. This directory will be archived or removed at a later date, and is probably very hard to follow because it is just the ramblings inside my head.
+
+/src - Contains the source code for Project Nimbus. Subdirectories are below.
