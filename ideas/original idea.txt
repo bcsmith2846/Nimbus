@@ -1,0 +1,51 @@
+Create a platform that allows an everyday user of the internet/computers to sign up for a service that creates a personal cloud with optional remote data store with access/manipulation front ends. The data store would be hosted on a server that is rented monthly through another provider (we will rent the server and purchase the domain name, so the process is streamlined and simple.) An app for Android, iOS, and BlackBerry devices will be created to allow users to see or manipulate their data from anywhere.
+
+There will be "modules" that the user can subscribe to add more functionality to their data store. Modules may include:
+- Photo uploading and viewing
+- Photo editing
+- Budget creation with purchase reporting (to keep up with the budget.)
+- Calendar
+- Social network integration
+- Application hosting (I.E. ventrillo)
+- Memories (a timeline of sorts)
+- Children (limited memories/photos module support)
+- Buliten board (public writable or private.)
+- To do lists
+- Reminders via push notification, email, text, etc.
+- Check in (location reporting of children/SOs/couple to the public)
+- Chore lists (real time updating.)
+- File hosting
+- Email
+- Children requests for permission
+- Messaging
+- Daily schedule reporting
+- Phone monitoring
+- computer monitoring (via desktop app)
+- Computer/phone easy access
+- Computer/phone setting changer
+- Batch computer/phone actions (across 1+ devices.)
+- Network printing from anywhere
+- File backups
+- Webcam viewing
+- Home automation
+- Video hosting
+- Phone/computer update scheduling
+- Forum
+- Blog/diary
+
+Charges would be allocated as follows:
+- A base monthly fee for web hosting and a domain
+- Charge for modules in these ways:
+     - Adding new modules:
+          - Pay a flat fee per module (reoccuring or single time depending on the module)
+          - Buy a custom module pack (x number of flat fee or x number of reoccuring modules for a set price.)
+          - Buy a prebuilt module pack (modules put together by me tailored to certian needs.)
+     - Buy more space for individual modules 
+- Buy subdomains or more domains.
+- Buy instances for modules.
+
+You can buy more domains or register subdomains for different uses (I.E. a family website, a personal website, a private/intimate website, a temporary website for an event, etc.)
+
+Modules will have limited space, but more space can be purchased. Modules will allow a preset number of instances (if you purcase a diary/blog module you might get 2 instances, so you can only have two blogs associated with your account,) but you can purchase more. You can use your modules across any domain/subdomain associated with your account.
+
+There will be a public landing page where modules that have been marked public can be viewed by anyone. There will be private pages only accesable after logged in. For familes with children that are old enough, accounts can be created with limited privlidges to edit chosen modules.

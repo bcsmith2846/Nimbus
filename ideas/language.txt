@@ -1,0 +1,14 @@
+C#
+	Pros:
+	- Memory management
+	- Has API that suits modules' needs
+	- Can use ASP to integrate with web services
+	- Cross Platform
+	Cons:
+	- No native Android support (can write this segement in Java)
+Java
+	Pros:
+	- Memory management
+	- Tomcat can integrate into web services
+	Cons:
+	- No low level hardware/OS access
