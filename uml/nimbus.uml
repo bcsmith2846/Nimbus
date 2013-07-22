@@ -66,7 +66,7 @@
 			CodeGeneration
 		</plugin>
 </profile>
-<XMI xmi.version = '1.2' xmlns:UML = 'org.omg.xmi.namespace.UML' timestamp = 'Mon Jul 22 18:08:25 CDT 2013'>
+<XMI xmi.version = '1.2' xmlns:UML = 'org.omg.xmi.namespace.UML' timestamp = 'Mon Jul 22 18:09:41 CDT 2013'>
   <XMI.header>    <XMI.documentation>
       <XMI.exporter>ArgoUML (using Netbeans XMI Writer version 1.0)</XMI.exporter>
       <XMI.exporterVersion>0.34(6) revised on $Date: 2010-01-11 22:20:14 +0100 (Mon, 11 Jan 2010) $ </XMI.exporterVersion>
@@ -3888,7 +3888,7 @@ can be used individually.</text>
     </group>
   </group>
   <group name="Fig4"
-       description="org.argouml.uml.diagram.use_case.ui.FigUseCase[320, 160, 112, 42]pathVisible=false;stereotypeView=0;extensionPointVisible=false"
+       description="org.argouml.uml.diagram.use_case.ui.FigUseCase[288, 176, 112, 42]pathVisible=false;stereotypeView=0;extensionPointVisible=false"
        href="10-0-0-2--4ef92c42:14008919219:-8000:0000000000000AB5"
        fill="1"
        fillcolor="white"
@@ -3899,8 +3899,8 @@ can be used individually.</text>
     </private>
     
     <ellipse name="Fig4.0"
-      x="376"
-      y="181"
+      x="344"
+      y="197"
       rx="56"
       ry="21"
       fill="1"
@@ -3909,8 +3909,8 @@ can be used individually.</text>
       strokecolor="black"
     />
     <text name="Fig4.1"
-      x="332"
-      y="169"
+      x="300"
+      y="185"
       width="88"
       height="23"
       fill="0"
@@ -3925,7 +3925,7 @@ can be used individually.</text>
       justification="Center"
     >Delete Bulliten</text>
     <group name="Fig4.2"
-         description="org.argouml.uml.diagram.ui.FigStereotypesGroup[331, 169, 87, 0]"
+         description="org.argouml.uml.diagram.ui.FigStereotypesGroup[299, 185, 87, 0]"
          href="10-0-0-2--4ef92c42:14008919219:-8000:0000000000000AB5"
          fill="0"
          fillcolor="white"
@@ -3937,8 +3937,8 @@ can be used individually.</text>
       </private>
       
       <rectangle name="Fig4.2.0"
-        x="331"
-        y="169"
+        x="299"
+        y="185"
         width="87"
         height="0"
         fill="0"
@@ -3948,8 +3948,8 @@ can be used individually.</text>
       />
     </group>
     <rectangle name="Fig4.3"
-      x="330"
-      y="170"
+      x="298"
+      y="186"
       width="11"
       height="1"
       fill="1"
@@ -3959,7 +3959,7 @@ can be used individually.</text>
       visibility="0"
     />
     <group name="Fig4.4"
-         description="org.argouml.uml.diagram.ui.FigExtensionPointsCompartment[330, 170, 64, 19]"
+         description="org.argouml.uml.diagram.ui.FigExtensionPointsCompartment[298, 186, 64, 19]"
          href="10-0-0-2--4ef92c42:14008919219:-8000:0000000000000AB5"
          fill="1"
          fillcolor="white"
@@ -3971,8 +3971,8 @@ can be used individually.</text>
       </private>
       
       <rectangle name="Fig4.4.0"
-        x="330"
-        y="170"
+        x="298"
+        y="186"
         width="64"
         height="19"
         fill="0"
@@ -4356,8 +4356,8 @@ can be used individually.</text>
     >
       <moveto x="79"
               y="265" />
-      <lineto x="331"
-              y="193" />
+      <lineto x="297"
+              y="208" />
     </path>
   </group>
   <group name="Fig11"
@@ -4434,8 +4434,8 @@ can be used individually.</text>
                         classname="org.argouml.uml.diagram.ui.PathItemPlacement"
                         figclassname="org.argouml.uml.diagram.ui.FigTextGroup"
                         ownerhref="10-0-0-2--4ef92c42:14008919219:-8000:0000000000000AC7"
-                        angle="94.0"
-                        offset="7" />
+                        angle="340.0"
+                        offset="91" />
       <argouml:pathitem figname="Fig12.2"
                         classname="org.argouml.uml.diagram.ui.PathItemPlacement"
                         figclassname="org.argouml.uml.diagram.ui.FigMultiplicity"
@@ -4470,8 +4470,10 @@ can be used individually.</text>
     >
       <moveto x="139"
               y="103" />
-      <lineto x="333"
-              y="167" />
+      <lineto x="168"
+              y="184" />
+      <lineto x="289"
+              y="192" />
     </path>
   </group>
 </pgml>
